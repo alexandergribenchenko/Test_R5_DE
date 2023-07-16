@@ -1,7 +1,7 @@
 # ¿Como crear una prueba de concepto de un Datawarehouse en el contexto del retail?
 **Data Enginner Challenge - Grupo R5  (Presentado por: Alexander Ortega, Julio 2023)**
 
-El presente repositorio contiene el notebook que mplementa la solución al reto propuesto por el Grupo R5 para optar al rol de Data Engineer. El reto consiste en la implementación de un datawarehouse en el contexto de negocio de ventas en tiendas físicas de retail.
+El presente repositorio contiene el notebook que implementa la solución al reto propuesto por el Grupo R5 para optar al rol de Data Engineer. El reto consiste en la implementación de un datawarehouse en el contexto de negocio de ventas en tiendas físicas de retail.
 
 El notebook está compuesto de 3 secciones que dan respuesta a cada uno de los ítems descritos en la consigna compartida:
 
